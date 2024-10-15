@@ -26,16 +26,16 @@ The system is built around a network of sensors that monitor soil moisture and t
 ## Project Images
 
 ### System Sketch
-![Sketch](https://github.com/user-attachments/assets/944ce43b-a831-463e-b52c-8f846cfef315)
+<img src="https://github.com/user-attachments/assets/944ce43b-a831-463e-b52c-8f846cfef315" width="400"/>
 
 ### Application Interface
-![Apps](https://github.com/user-attachments/assets/27f15596-663a-426f-8fda-3cccf90103c6)
+<img src="https://github.com/user-attachments/assets/27f15596-663a-426f-8fda-3cccf90103c6" width="400"/>
 
 ### Field Implementation
-![Image1](https://github.com/user-attachments/assets/088f70b9-b3c2-4bf7-955f-63c640471943)
-![Image2](https://github.com/user-attachments/assets/792ba25e-55f8-45da-8d61-2b9ca5b58def)
-![Image3](https://github.com/user-attachments/assets/76ffb704-42a0-47a7-b1f5-79662791c27f)
-![Image4](https://github.com/user-attachments/assets/f7e79a33-20fc-4ce4-8530-5ef94a1ffe1a)
+<img src="https://github.com/user-attachments/assets/088f70b9-b3c2-4bf7-955f-63c640471943" width="400"/>
+<img src="https://github.com/user-attachments/assets/792ba25e-55f8-45da-8d61-2b9ca5b58def" width="400"/>
+<img src="https://github.com/user-attachments/assets/76ffb704-42a0-47a7-b1f5-79662791c27f" width="400"/>
+<img src="https://github.com/user-attachments/assets/f7e79a33-20fc-4ce4-8530-5ef94a1ffe1a" width="400"/>
 
 ## Conclusion
 
